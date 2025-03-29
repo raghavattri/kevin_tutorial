@@ -1,0 +1,4 @@
+changes - > staging area -> commit
+
+stagin  = git add "file name" 
+all changes staging = git add . ya git add -A
